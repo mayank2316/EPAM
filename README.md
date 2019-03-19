@@ -1,1 +1,1 @@
-# This is work done under the EPAM webinar training.
+This is work done under the EPAM webinar training.
